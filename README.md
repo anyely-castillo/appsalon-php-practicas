@@ -1,11 +1,8 @@
-# portfolio-developer
+# appsalon-php-practicas
 
-<p align="center">
-   <a href="https://github.com/anyely-castillo" target="_blank"><ion-icon name="logo-github"></ion-icon></a>
-  <a href="https://www.instagram.com/arq.castilloaa/?hl=es" target="_blank"><ion-icon name="logo-instagram"></ion-icon></a>
-  <a href="https://www.linkedin.com/in/anyely-castillo-duarte" target="_blank"><ion-icon name="logo-linkedin"></ion-icon>
-  </a>
-</p>
+[@dayerlin.es]([https://dayerlin.es](https://anyelycastillo.es/))
+[@instagram](https://www.instagram.com/arq.castilloaa/?hl=es)
+[@linkedin](https://www.linkedin.com/in/anyely-castillo-duarte)
 
 I have +1 year of experience as a frontend developer, here you will find projects made with different tools and designs for an optimal user interface.
 
