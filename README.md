@@ -1,4 +1,4 @@
-# appsalon-php-practicas
+# Appsalon-php-practicas
 
 [@anyelycastillo.es](https://anyelycastillo.es/)
 [@instagram](https://www.instagram.com/arq.castilloaa/?hl=es)
@@ -11,6 +11,10 @@ I have +1 year of experience as a frontend developer, here you will find project
 - https://padlet.com/anyelycastillo25/curr-culum-vitae-4s54c26zztjns9vb
 - https://padlet.com/anyelycastillo25/t-tulos-acad-micos-certificados-9yfv6hofm7x6bcnt 
 
-### if you like leave me a star
+### If you leave me some constructive feedback or a star⭐ I would appreciate it.
 
 [![img](./src/img/readme.png)](https://anyelycastillo.es/)
+
+# BooksApp
+
+This project was generated with [PHP version 8.4.8] 
